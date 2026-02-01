@@ -209,9 +209,9 @@ See `LICENSE` file for more information.
 
 ## 📬 Contact
 
-**Aditya Jain**
-GitHub: [https://github.com/AdityaJain1106](https://github.com/AdityaJain1106)
-Email: [adijain1106@gmail.com](mailto:adijain1106@gmail.com)
+**SARVAGYA JOSHI**
+GitHub: [https://github.com/Sjoshi10262](https://github.com/Sjoshi10262)
+Email: [sarvagya665@gmail.com](mailto:sarvagya665@gmail.com)
 
 Project Link:
 👉 [https://github.com/AdityaJain1106/Osdag---LaTeX-template-using-PyLaTex](https://github.com/AdityaJain1106/Osdag---LaTeX-template-using-PyLaTex)
