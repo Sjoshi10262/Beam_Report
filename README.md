@@ -214,7 +214,7 @@ GitHub: [https://github.com/Sjoshi10262](https://github.com/Sjoshi10262)
 Email: [sarvagya665@gmail.com](mailto:sarvagya665@gmail.com)
 
 Project Link:
-👉 [https://github.com/AdityaJain1106/Osdag---LaTeX-template-using-PyLaTex](https://github.com/AdityaJain1106/Osdag---LaTeX-template-using-PyLaTex)
+👉 [https://github.com/Sjoshi10262/Osdag---LaTeX-template-using-PyLaTex](https://github.com/AdityaJain1106/Osdag---LaTeX-template-using-PyLaTex)
 
 ---
 
